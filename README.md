@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Matt (or sometimes zee pk)
+## Hi there 👋 I'm Matt (or sometimes zee pk)
 
-## I'm a full stack developer and frequent twitch streamer
+### I'm a full stack developer and frequent twitch streamer
 
 <!--
 **zeepk/zeepk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
