@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Matt, and I'm a full stack software engineer primarly working in web dev
+## Hi there 👋 I'm Matt, and I'm a full stack web dev with experience in FinTech and Healthcare Tech
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=zeepk&show_icons=true&theme=dark)](https://github.com/zeepk/github-readme-stats)
 
